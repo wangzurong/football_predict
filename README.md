@@ -16,7 +16,7 @@
 # 投注成果
 > bet365 website
 
-近一月预测注单　<font color='red'>300+</font> 命中率　<font color='red'>60%+</font> 　<font color='red'>盈利率14% </font>
+近一月预测注单　**<font color=#FF0000>300+</font>** 命中率　**<font color=#FF0000>60%+</font>** 　盈利率**<font color=#FF0000>14%+</font>**
 
 # web技术
 - 将预测技术与网页结合 实时统计盈利率(模拟投注) 采用bet365标准赔率 
