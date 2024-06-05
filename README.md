@@ -8,6 +8,6 @@
 - 将实时预测结果公布在网站上 同时将历史预测进行公布
 # 成果 联系方式
 
-- 预测网站地址: https://yudisoft.xyz:3000
+- 预测网站地址: https://yudisoft.xyz:3000 联系方式 微信: zuonwang  QQ: 2824498290
   ![iamge](https://github.com/wangzurong/football_predict/blob/main/image.png)
-- 作者微信: zuonwang
+  ![image](https://github.com/wangzurong/football_predict/blob/main/5d5ecd60d6ed7582c70e9cc9f3a8a80.jpg)
