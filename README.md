@@ -7,5 +7,6 @@
 - 统计长时间模拟投注的盈利率和命中率 
 - 将实时预测结果公布在网站上 同时将历史预测进行公布
 # 成果 联系方式
+![iamge](https://github.com/wangzurong/football_predict/blob/main/image.png)
 - 预测网站地址: https://yudisoft.xyz:3000
 - 作者微信: zuonwang
