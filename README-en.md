@@ -22,6 +22,6 @@ Type: 351 Direction: Home Profit rate: 0.10432749786507259 Number of backtest fi
 - The real-time forecast results will be posted on the website and the historical forecast will be posted
 # Results contact information
 
-- Predicted website address: https://yudisoft.xyz:3000 Contact us on wechat: zuonwang  QQ: 2824498290 telegrame:https://t.me/yudixxx122
+- Predicted website address: https://betanyone.net:3000/ Contact us on wechat: zuonwang  QQ: 2824498290 telegrame:https://t.me/yudixxx122
   ![iamge](https://github.com/wangzurong/football_predict/blob/main/image.png)
   ![image](https://github.com/wangzurong/football_predict/blob/main/5d5ecd60d6ed7582c70e9cc9f3a8a80.jpg)
