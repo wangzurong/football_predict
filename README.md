@@ -28,11 +28,14 @@
 - 将实时预测结果公布在网站上 同时将历史预测进行公布
 # 成果 联系方式
 # 更新内容
-增加更多预测方案 实时更新预测结果 已运行2月 盈利率稳定在8%-10%
+- 增加更多预测方案 实时更新预测结果 已运行2月 盈利率稳定在8%-10%
+- 增加进攻曲线图 盈利点
+- ![image](https://github.com/user-attachments/assets/8a3eea9b-2a01-4a76-8b97-116c2c5d4f70)
+  ![image](https://github.com/user-attachments/assets/d3818582-42b5-4c44-ba03-0950f0de32b2)
 # 更新网站地址 
 - https://zuonwang.work:8002/admin/log
 # 合作联系
   联系方式 微信: zuonwang  QQ: 2824498290
-  ![image](https://github.com/user-attachments/assets/d3818582-42b5-4c44-ba03-0950f0de32b2)
+
 
   ![image](https://github.com/wangzurong/football_predict/blob/main/5d5ecd60d6ed7582c70e9cc9f3a8a80.jpg)
