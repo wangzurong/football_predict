@@ -37,6 +37,16 @@
 - 近一月**300+**注单
 - **14%+**综合盈利率
 - **63%+**预测命中率
+## 💵 实时软件跟单投注(实战)
+- bet365 盈利率(10%-20%)
+![image](https://github.com/user-attachments/assets/56a5800b-0354-46bb-a49b-3552be26f2a3)
+- 熊猫 盈利率 (8%-15%)
+![image](https://github.com/user-attachments/assets/46a08799-c4a2-4131-91fe-3f3b9b1a491d)
+- hg 盈利率 (8%-12%)
+![image](https://github.com/user-attachments/assets/bf6cc1f9-9b41-4521-b15f-a2065b6d3f69)
+
+
+
 
 ## 🌐 网页平台功能
 ![比赛分析面板](https://github.com/user-attachments/assets/8a3eea9b-2a01-4a76-8b97-116c2c5d4f70)
