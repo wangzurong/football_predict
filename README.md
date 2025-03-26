@@ -51,8 +51,10 @@
 ## 🌐 网页平台功能
 ![比赛分析面板](https://github.com/user-attachments/assets/8a3eea9b-2a01-4a76-8b97-116c2c5d4f70)
 ![盈利曲线图](https://github.com/user-attachments/assets/d3818582-42b5-4c44-ba03-0950f0de32b2)
+![聚合信息平台]![image](https://github.com/user-attachments/assets/3da900d7-17b9-41c1-b3ec-beb9d072388a)
 
 **实时演示:** [https://zuonwang.work:8002/admin/log](https://zuonwang.work:8002/admin/log)
+**聚合平台信息平台:**[https://ccdet.xyz:8006/index](https://ccdet.xyz:8006/index)
 
 ## 🏆 系统亮点
 - **30秒**实时更新预测结果
